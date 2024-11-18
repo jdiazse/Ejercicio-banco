@@ -97,18 +97,28 @@ Escriba un programa que lea los coeficientes a, b y c de una ecuación de segund
 
 Ejercicio 25
 Pruebe la recursividad en Java. Escriba programas que calculen recursivamente las funciones factorial(n) y Ackermann(x, y). // Codigo y consola
+![image](https://github.com/user-attachments/assets/590dbc6d-8ea4-4050-9965-411bcc1ad386)
+![image](https://github.com/user-attachments/assets/ec090553-063b-4b3b-88fb-c64325532688)
 
 Ejercicio 26
 Escriba un programa que lea tres números enteros positivos, y que calcule e imprima en pantalla el menor y el mayor de todos ellos. //Codigo y consola
+![image](https://github.com/user-attachments/assets/d16b2c8b-13b2-4a4b-a0a1-24360a1752ee)
 
 Ejercicio 27
 Escriba un programa que lea temperaturas expresadas en grados Fahrenheit y las convierta a grados Celsius mostrándola. El programa finalizará cuando lea un valor de temperatura igual a 999. La conversión de grados Farenheit (F) a Celsius (C) está dada por C = 5/9(F − 32). // Codigo y consola
+![image](https://github.com/user-attachments/assets/2ec8a256-3e74-4c99-a910-0174b4478a57)
 
 Ejercicio 28
-Implemente una sentencia switch que escriba un mensaje en cada caso. Inclúyala en bucle de prueba for. Utilice también un break tras cada caso y pruébelo. Elimine el break y vea qué ocurre. // Codigo y consola
+Implemente una sentencia switch que escriba un mensaje en cada caso. Inclúyala en bucle de prueba for. Utilice también un break tras cada caso y pruébelo. Elimine el break y vea qué ocurre. // Codigo y consola con y sin break's, lo que pasa sin los breaks es que se siguen ejecutando los otros casos sin revisar si son validos o no hasta que termine el switch
+![image](https://github.com/user-attachments/assets/f5daba13-b819-494d-b6e5-8134dd891225)
+![image](https://github.com/user-attachments/assets/11c46626-31d3-4588-8015-eb54d86a008b)
 
 Ejercicio 29
-Cuando se lee una entrada estándar, por lo general se alcanza el fin de archivo cuando el usuario teclea CRTL-D, CRTL-Z, o algún otro carácter dependiente del sistema. Descubra cuál es el adecuado en su sistema. Escriba un programa que lea datos controlando el fin de la secuencia con la combinación adecuada. // Codigo y consola
+Cuando se lee una entrada estándar, por lo general se alcanza el fin de archivo cuando el usuario teclea CRTL-D, CRTL-Z, o algún otro carácter dependiente del sistema. Descubra cuál es el adecuado en su sistema. Escriba un programa que lea datos controlando el fin de la secuencia con la combinación adecuada. // Codigo y consola (La consola usada tuvo que ser la del simbolo del sistema ya que net beans no me leia CTRL-Z)
+
+![image](https://github.com/user-attachments/assets/7dd2d2cf-6cff-439f-8929-f4d734dbc91e)
+![image](https://github.com/user-attachments/assets/afccc362-2071-4788-b4f8-1673a364898a)
 
 Ejercicio 30
 Escriba un programa que use dos bucles for anidados y el operador de módulo (%) para detectar e imprimir números primos. // Codigo y consola
+![image](https://github.com/user-attachments/assets/bef0d66e-b879-4b84-a81e-c9159d9c673e)
